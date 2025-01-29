@@ -1,0 +1,1 @@
+.class files will automatically be loaded/stored in 'bin' folder on execution of java classes.
